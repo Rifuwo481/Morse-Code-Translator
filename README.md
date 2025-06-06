@@ -1,7 +1,6 @@
 # 📻 Morse Code Translator Pro
 
-![Morse Code Translator Screenshot](https://via.placeholder.com/800x500/0d1b2a/e0e1dd?text=Morse+Code+Translator+Pro)  
-*Replace with actual screenshot*
+
 
 A sleek, modern web application for real-time translation between text and Morse code with intelligent auto-detection.
 
